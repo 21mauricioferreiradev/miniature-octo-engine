@@ -1,1 +1,3 @@
-frases
+frases1
+frases2
+frases3
